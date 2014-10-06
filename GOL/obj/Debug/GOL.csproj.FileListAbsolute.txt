@@ -4,3 +4,10 @@ c:\users\peter's\documents\visual studio 2013\Projects\GOL\GOL\bin\Debug\GOL.pdb
 c:\users\peter's\documents\visual studio 2013\Projects\GOL\GOL\obj\Debug\GOL.csprojResolveAssemblyReference.cache
 c:\users\peter's\documents\visual studio 2013\Projects\GOL\GOL\obj\Debug\GOL.exe
 c:\users\peter's\documents\visual studio 2013\Projects\GOL\GOL\obj\Debug\GOL.pdb
+C:\Intern\game-of-life\GOL\bin\Debug\GOL.exe.config
+C:\Intern\game-of-life\GOL\obj\Debug\GOL.exe
+C:\Intern\game-of-life\GOL\obj\Debug\GOL.pdb
+C:\Intern\game-of-life\GOL\bin\Debug\GOL.exe
+C:\Intern\game-of-life\GOL\bin\Debug\GOL.pdb
+C:\Intern\game-of-life\GOL\bin\Debug\nunit.framework.dll
+C:\Intern\game-of-life\GOL\obj\Debug\GOL.csprojResolveAssemblyReference.cache
